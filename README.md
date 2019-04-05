@@ -1,2 +1,2 @@
-# PythonExcercises
-python exercises I've done so far
+# Python exercises from different sources
+
